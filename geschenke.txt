@@ -1,4 +1,5 @@
 laptop
 haus
 auto
-:wq
+Torte
+bildschirm
